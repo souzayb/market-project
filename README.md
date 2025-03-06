@@ -1,2 +1,2 @@
 # market-project
- Selling system projetc for a local market
+ Seles system projetc for a local market
